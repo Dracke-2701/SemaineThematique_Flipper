@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PoiintGravitation : MonoBehaviour
+public class PointGravitation : MonoBehaviour
 {
     public Transform target;
     public float maxVelocity = 40f;

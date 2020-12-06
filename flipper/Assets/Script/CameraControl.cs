@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraControle : MonoBehaviour
+public class CameraControl : MonoBehaviour
 {
     private Vector2 mouseInput;
     public float mouseSensitivity = 1f;
